@@ -3,3 +3,17 @@ git status
 git add
 git commit -m
 git restore
+ git remote -v
+  git push origin master
+ git log
+  git branch
+  git pull origin master
+  git branch
+  git clone
+  git clone https://github.com/Goldy-sharma/github-for-dev.git
+  git branch
+  git fetch
+  git branch
+  git checkout new-branch
+ git switch new-branch
+  git branch
