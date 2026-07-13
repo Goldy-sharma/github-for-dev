@@ -9,11 +9,14 @@ git restore
   git branch
   git pull origin master
   git branch
-  git clone
-  git clone https://github.com/Goldy-sharma/github-for-dev.git
-  git branch
   git fetch
   git branch
   git checkout new-branch
- git switch new-branch
+  git switch new-branch
   git branch
+  git switch master
+  git pull origin master
+  git branch
+  git merge new-branch
+  git status
+  git push origin master 
